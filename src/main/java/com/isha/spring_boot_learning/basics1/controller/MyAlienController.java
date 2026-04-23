@@ -9,5 +9,4 @@ public class MyAlienController
 {
     @Autowired
     public Alien alien;
-
 }

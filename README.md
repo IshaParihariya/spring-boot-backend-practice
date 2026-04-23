@@ -5,7 +5,6 @@ A comprehensive hands-on learning repository exploring core Spring Boot concepts
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.5-brightgreen)
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-red)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📚 What's Inside
 

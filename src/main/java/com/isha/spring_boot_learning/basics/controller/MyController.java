@@ -1,7 +1,6 @@
-package com.isha.spring_boot_learning.controller;
-import com.isha.spring_boot_learning.service.Greetings;
+package com.isha.spring_boot_learning.basics.controller;
+import com.isha.spring_boot_learning.basics.service.Greetings;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

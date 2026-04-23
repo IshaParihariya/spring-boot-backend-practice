@@ -1,4 +1,4 @@
-package com.isha.spring_boot_learning.service;
+package com.isha.spring_boot_learning.basics.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

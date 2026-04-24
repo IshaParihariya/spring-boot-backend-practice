@@ -4,6 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+//example of Greeting interface and its implementation MyGreetings
 // @Controller → returns view (HTML)
 //@RestController → returns data (String/JSON)
 @RestController
